@@ -6,4 +6,6 @@ Links para entendimento das bibliotecas usadas no projeto
 [Documentação Numpy](https://numpy.org/devdocs/dev/index.html#devindex)<br>
 [Documentação Matplotlib](https://matplotlib.org/stable/index.html)
 
+*Para melhor visualizar os gráficos, clik na parte superior esquerda no ícone COLAB*
+
 
